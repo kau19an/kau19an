@@ -1,4 +1,4 @@
-In other languages: [Português](https://github.com/kau19an/kau19an/main/LEIAME.md)
+In other languages: [Português](https://github.com/kau19an/kau19an/blob/main/LEIAME.md)
 
 ## 👋🏼 Hey, there!
 First of all: welcome in. It's nice having you here! I'm **Kauan Farias**, also known as **Faariaz**, currently taking Systems Analysis and Development at Braz Cubas University in São Paulo, Brazil. My goal is to become a full-stack developer.
