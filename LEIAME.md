@@ -21,4 +21,4 @@ No tempo livre, eu sou um: gamer, administrador e representante da [Minecraft Wi
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](#)
 
-[_Dê um pulinho no meu site para conhecer mais sobre mim e como você pode entrar em contato._](https://faariaz.vercel.app/)
+[_Clique aqui para ver todos os meios nas quais você pode entrar em contato comigo._](https://lnk.bio/kauanfl)

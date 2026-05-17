@@ -21,4 +21,4 @@ In the spare time, I'm a: gamer, administrator and representative at [Brazilian 
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](#)
 
-[_Check out my website to learn more about me and how you can get in touch._](https://faariaz.vercel.app/en/)
+[_Click here to see all the ways you can get in touch with me._](https://faariaz.vercel.app/en/)
